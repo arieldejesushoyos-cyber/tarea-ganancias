@@ -1,3 +1,3 @@
-# ecoMoleculas
+# ecomoleculas
 ## Resumen
-proyecto para el curso elementos de la IA. calculadora python que calcula ganancias apartir de costos y precios. es el proyecto final del curso.final-Ariel 2026
+Este proyecto es para el curso elementos de la IA.Es una calculadora hecha en python que calcula ganancias y ayuda a entender costos de moleculas ecologicas .es el proyecto final del curso de Ariel 2026
