@@ -1,5 +1,3 @@
-Este proyecto es para el curso Elementos de la IA de la Universidad de Helsinki. 
-Es una calculadora hecha en Python que calcula ganancias. 
-El programa pide ingresos y costos y calcula ingresos menos costos para saber la ganancia real. 
-Ayuda a entender costos de moleculas ecologicas. 
-Fue creado por Ariel de Jesus Hoyos en 2026 como proyecto final del curso Building AI.
+# ecomoleculas
+## Resumen
+Este proyecto es para el curso Elementos de la IA. de la universidad de  Helsinki.Es una calculadora hecha en python que calcula ganancias .El programa pide  ingresos y costos y calcula ingresos menos costos Fue creado por Ariel de jesus Hoyos 2026 como proyecto final.
